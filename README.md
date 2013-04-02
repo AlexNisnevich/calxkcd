@@ -1,7 +1,7 @@
 # Instructions
 
-- Install python3, pyskein, and requests
-- Run this script with python3
+1. Install [Python 3](http://www.python.org/), [pyskein](http://pythonhosted.org/pyskein/), and [requests](http://docs.python-requests.org/en/latest/)
+2. Run this script with `python3`
 
 ## In latest Ubuntu / Debian / Mint:
 ```
