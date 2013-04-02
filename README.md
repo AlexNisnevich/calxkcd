@@ -6,7 +6,7 @@
 ## In latest Ubuntu / Debian / Mint:
 ```
 sudo apt-get install python3-dev python3-pip
-sudo python3-pip install requests
-sudo python3-pip install pyskein
+sudo pip-3.2 install requests
+sudo pip-3.2 install pyskein
 python3 calxkcd.py
 ```
